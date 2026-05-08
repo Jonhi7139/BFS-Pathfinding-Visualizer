@@ -10,4 +10,4 @@ Simple pathfinding implementation using Breadth-First Search (BFS) in Python.
 ## Algorithms
 - Breadth-First Search (BFS)
 ## Run
-python main.py
+main.py
