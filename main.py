@@ -1,5 +1,5 @@
-from MAPA.py import *
-from BFS.py import *
+from MAPA import *
+from BFS import *
 
 map=Map(10,10)
 map.generate()
